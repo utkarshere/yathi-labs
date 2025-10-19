@@ -1,5 +1,4 @@
 .env
-data/
 assessment/
 __pycache__/
 *.pyc
